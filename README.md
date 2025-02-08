@@ -13,7 +13,6 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- 👨‍🎓 3th years student at Epitech
 - 🏴‍☠️ Playing CTF's at spare time
 - 🔗 Personal website: 
 
